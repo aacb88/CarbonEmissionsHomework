@@ -23,3 +23,15 @@ th.total, td.total {
 	display: inline-block;
 	background-color: #000;
 }
+
+th.ttE{
+    text-align: right;
+}
+td.Emissions{
+    text-align: right;
+
+}
+th.ste{
+    position: relative;
+    text-align: left;
+}
